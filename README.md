@@ -9,7 +9,7 @@ Skrip ini menghasilkan alamat dan private key, kemudian menyimpannya dalam beber
 - Menyimpan alamat wallet ke dalam `addresses.txt`.
 - Menyimpan private key wallet ke dalam `privatekeys.txt`.
 - Menyimpan alamat dan private key dalam format JSON ke dalam `wallets.json`.
-- Menampilkan proses pembuatan wallet dengan ASCII art.
+
 
 ## 🖥️ Prasyarat
 Pastikan Anda memiliki **Node.js** dan **npm** yang terinstal pada sistem Anda. Anda dapat mengunduh dan menginstalnya dari [Node.js](https://nodejs.org/).
