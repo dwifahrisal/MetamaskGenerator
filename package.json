@@ -1,0 +1,14 @@
+{
+  "name": "eth-wallet-generator",
+  "version": "1.0.0",
+  "description": "Generate Ethereum wallets using ethers.js",
+  "main": "generatewallet.js",
+  "scripts": {
+    "start": "node generatewallet.js"
+  },
+  "author": "mangisal",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^6.8.1"
+  }
+}
